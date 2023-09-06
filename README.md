@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @cvam12sharma
 - 👀 I’m interested in . coding..
 - 🌱 I’m currently learning ... web dev
-- 
-- 💞️ I’m looking to collaborate with  emmaa watson  and modiji
+  
 - 📫 How to reach me ..call me.
 
 <!---
